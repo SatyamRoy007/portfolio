@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     strategy:
-          matrix:
+      matrix:
         node-version: [20.x, 22.x]
 
     steps:
@@ -26,4 +26,3 @@ jobs:
       run: |
         npm ci
         npm run build
-        
