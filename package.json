@@ -1,5 +1,5 @@
 {
-  "homepage":"https://SatyamRoy007.github.io/portfolio",
+  "homepage": "https://SatyamRoy007.github.io/portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,7 +11,6 @@
     "@vitejs/plugin-react": "latest",
     "autoprefixer": "latest",
     "framer-motion": "^12.38.0",
-    "gh-pages": "^6.3.0",
     "lucide-react": "^0.344.0",
     "postcss": "latest",
     "react": "^18.3.1",
@@ -22,6 +21,7 @@
   },
   "devDependencies": {
     "@types/react": "^18.3.12",
-    "@types/react-dom": "^18.3.1"
+    "@types/react-dom": "^18.3.1",
+    "gh-pages": "^6.3.0"
   }
 }
