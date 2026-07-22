@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/SatyamRoy007/portfolio",
+  "homepage":"https://SatyamRoy007.github.io/portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
